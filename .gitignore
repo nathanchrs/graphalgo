@@ -1,0 +1,9 @@
+# Test binary
+*.test
+
+# Coverage tool output
+*.out
+
+# VSCode
+.vscode/
+.history/
